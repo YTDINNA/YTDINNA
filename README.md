@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://img.shields.io/github/forks/themlphdstudent/awesome-github-profile-readme-templates.svg?color=blue)](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/network" alt="YTDINNA" /> </p>
 <p align="left"> <img src="https://camo.githubusercontent.com/08c3cfb906519557dcd4723a122edd2eda022bfc9253953c0d05472a81604a13/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d7669736877613639266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="YTDINNA" /> </p>
 
-<p align="left"> <a href="https://github.com/YTDINNA/YT-DINNA-master"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3" alt="YTDINNA" /></a> </p>
+<p align="left"> <a https://www.youtube.com/@gamingytdinna"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3" alt="YTDINNA" /></a> </p>
 
 <br/>
 <br/>
